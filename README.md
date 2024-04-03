@@ -57,6 +57,6 @@ In each other row, the first cell is a text label for the training example. It d
 ### Future
 This project is quite a short term project that I don't intend to work on a lot more in the future, however I would like to at some point add functionality for multiple outputs and give it a GUI server.
 ### License
-AutoParam is not under a license, so you're free to use it however you want, with no restrictions at all.
+AutoParam is under the MIT license. See LICENSE.md for more information.
 ### Issues
 Besides the limitations that I have already stated, please feel free to report bugs or issues in the `issues` tab. You can also contact me directly at [jake.stbu@gmail.com](mailto:jake.stbu@gmail.com).
